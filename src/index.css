@@ -12,7 +12,7 @@ body {
 }
 /* LandingPage Component styles */
 .bgimg {
-    background-image: url('https://www.w3schools.com/w3images/forestbridge.jpg');
+    background-image: url('https://cdn.pixabay.com/photo/2023/03/23/13/58/mountains-7872003_1280.jpg');
     min-height: 100vh;
     background-position: center;
     background-size: cover;

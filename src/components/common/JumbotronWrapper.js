@@ -5,11 +5,11 @@ import { CenterToScreen } from './hoc';
 
 const JumbotronWrapper = (props) => {
 	return (
-		<Col {...props.col}>
-			<Jumbotron>
+		<Col {...props.col} >
+			<Jumbotron style={{backgroundColor : '#a5c3c2' , borderRadius : '5%'}}>
 				<h1>{props.title}</h1>
 				<p>{props.description}</p>
-				<div style={{color: '#0056b3'}}>{props.children}</div>
+				<div style={{color: 'black'}}>{props.children}</div>
 			</Jumbotron>
 		</Col>
 	);

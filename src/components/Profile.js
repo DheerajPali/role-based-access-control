@@ -3,7 +3,15 @@ import { JumbotronWrapper } from './common';
 
 function Profile() {
 	return (
-		<JumbotronWrapper title="Profile" />
+		<JumbotronWrapper description="Profile is visible to register users only like User, Admin, HR and Manager
+		Profile is visible to register users only like User, Admin, HR and Manager
+		Profile is visible to register users only like User, Admin, HR and Manager
+		Profile is visible to register users only like User, Admin, HR and Manager
+		Profile is visible to register users only like User, Admin, HR and Manager
+		Profile is visible to register users only like User, Admin, HR and Manager
+		Profile is visible to register users only like User, Admin, HR and Manager
+		Profile is visible to register users only like User, Admin, HR and Manager
+		Profile is visible to register users only like User, Admin, HR and Manager" title="Profile" />
 	)
 }
 
